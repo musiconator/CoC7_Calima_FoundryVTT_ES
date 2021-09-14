@@ -19,7 +19,7 @@
   "resetKeys": false,
   "safeMode": false,
   "systemVersion": "0.6.7"
-  "download": 
-  "manifest":
-  "url": 
+  "download": "https://github.com/musiconator/CoC7_Calima_FoundryVTT_ES/archive/refs/heads/main.zip"
+  "manifest": "https://raw.githubusercontent.com/musiconator/CoC7_Calima_FoundryVTT_ES/main/world.json"
+  "url": ""
 }
