@@ -1,0 +1,22 @@
+{
+  "name": "calima7ma",
+  "title": "CoC 7th - Calima",
+  "description": "<p>Junio de 2010. Una ola de calor recorre el sur de los Estados Unidos. La ropa se pega al cuerpo por culpa del sudor, cuesta trabajo respirar. Un domingo cualquiera, Zack Middleton, un joven normal, buen estudiante y buen chico, aparece muerto tras haberse suicidado en su habitación. Nadie se lo cree aún, Zack estaba bien, ¿no?</p>\n<p>Calima es un escenario corto para La Llamada de Cthulhu 7ª edición en la época actual para uno o dos jugadores y Guardián, aunque es fácilmente adaptable a más jugadores. En él los personajes tendrán que investigar el suicidio de Zack Middleton, descubriendo en el proceso, que no todo es lo que parece, que hay cosas que es mejor dejar quietas, y que la ambición desmedida puede tener consecuencias.</p>",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [],
+  "system": "CoC7",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "background": "worlds/calima7ma/Calimav2.jpg",
+  "coreVersion": "0.8.9",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "0.6.7"
+}

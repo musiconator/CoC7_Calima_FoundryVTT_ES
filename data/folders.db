@@ -1,0 +1,10 @@
+{"name":"Investigadores Pregenerados","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"#941100","flags":{},"_id":"5djWpIvtsVYWKWJz"}
+{"name":"Atlanta","type":"Scene","parent":null,"sorting":"a","sort":0,"color":"#941100","flags":{},"_id":"CeXbQMWK6DpnYWvb"}
+{"name":"Ayudas","type":"JournalEntry","parent":"SGJSEK7zL5zcxjuk","sorting":"a","sort":0,"color":"#941100","flags":{},"_id":"GITxmlWo7UyCZtNn"}
+{"name":"Antagonistas","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"OB0LHXPhrbQ0cYWX"}
+{"_id":"SGJSEK7zL5zcxjuk","name":"Calima","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"#941100","flags":{}}
+{"name":"PNJ","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"WDQRLBB4w9sgk8w5"}
+{"name":"Criaturas","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"ZpWJ5TbSxH7g6Uvy"}
+{"_id":"gP6eGn2SjCsSUOD9","name":"Apartados","type":"JournalEntry","parent":"SGJSEK7zL5zcxjuk","sorting":"a","sort":100000,"color":"#941100","flags":{}}
+{"name":"Extra","type":"JournalEntry","parent":"GITxmlWo7UyCZtNn","sorting":"a","sort":0,"color":"#941100","flags":{},"_id":"xfMQgBMjGHKaGCFO"}
+{"_id":"yx48uy8Ven9zsf0w","name":"Localizaciones","type":"Scene","parent":null,"sorting":"a","sort":0,"color":"#941100","flags":{}}
